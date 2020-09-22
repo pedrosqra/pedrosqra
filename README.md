@@ -8,5 +8,5 @@ I'm a computer science undergrad student at the Federal University of Campina Gr
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=pedrosqra&count_private=true&show_icons=true&hide=stars,issues" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosqra&layout=compact&count_private=true&show_icons=true&theme=light" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosqra&layout=compact&count_private=true&show_icons=true&theme=light&hide=ruby" />
   </div>
