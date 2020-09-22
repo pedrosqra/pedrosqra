@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**pedrosqra/pedrosqra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/pedrosqra)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+I'm a computer science undergrad student at the Federal University of Campina Grande, Brazil. Currently I'm in the junior year of college, so still got a long way to go.
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedrosqra)](https://github.com/pedrosqra/github-readme-stats&show_icons=true&theme=dracula)
+
+
+- [website](https://pedrosqra.github.io) ✍🏼 - I'm learning React and Gatsby so this page will get prettier overtime.
