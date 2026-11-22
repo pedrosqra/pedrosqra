@@ -10,7 +10,7 @@ I'm a software engineer at [Buzzmonitor](https://github.com/buzzmonitor), where 
 
 ## Other projects
 
-- **[Inside GPT-2](https://inside-gpt2.vercel.app/)** · An interactive guide I built to connect the decoder-only Transformer architecture to the Python code for the model and its training loop.
+- **[Inside GPT-2](https://inside-gpt2.vercel.app/)** · I built this interactive guide while studying [Sebastian Raschka’s GPT-2 implementation](https://github.com/rasbt/LLMs-from-scratch) in a course on large language models at UFCG. It helps others connect the decoder-only Transformer architecture to Raschka’s Python code for the model and its training loop.
 - **[BuzzBook API](https://github.com/pedrosqra/BuzzBookAPI)** · A NestJS and PostgreSQL API for an online bookstore, with catalog management and user authentication.
 
 [Personal website](https://pedrosqra.github.io/)
